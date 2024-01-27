@@ -35,4 +35,4 @@ def hello_world():
 hello_world()
 ```
 
-![Śmiesznie]("warsztat_1\photo_2024-01-23_21-04-54.jpg")
+![Śmiesznie](photo_2024-01-23_21-04-54.jpg)
